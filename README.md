@@ -10,7 +10,7 @@ Nessus扫描完成，总要花挺多时间去整理报告，为此写了一个�
 Nessus_to_report
  
 │ Nessus_report_demo.py       //demo
-│ Nessus_resport.py           //主文件
+│ Nessus_report.py           //主文件
 │ README.md                 
 │ vuln.db                     //中文漏洞库
 │

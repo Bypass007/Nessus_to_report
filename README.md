@@ -1,31 +1,31 @@
 # Nessus_to_report
 
-NessusÉ¨ÃèÍê³É£¬×ÜÒª»¨Í¦¶àÊ±¼äÈ¥ÕûÀí±¨¸æ£¬Îª´ËĞ´ÁËÒ»¸öĞ¡½Å±¾£¬ÓÃÓÚ×Ô¶¯»¯Éú³ÉÖĞÎÄÂ©¶´±¨¸æ¡£
+Nessusæ‰«æå®Œæˆï¼Œæ€»è¦èŠ±æŒºå¤šæ—¶é—´å»æ•´ç†æŠ¥å‘Šï¼Œä¸ºæ­¤å†™äº†ä¸€ä¸ªå°è„šæœ¬ï¼Œç”¨äºè‡ªåŠ¨åŒ–ç”Ÿæˆä¸­æ–‡æ¼æ´æŠ¥å‘Šã€‚
 
-½âÎöhtml±¨¸æ£¬×Ô¶¯·­Òë³ÉÖĞÎÄ£¬²¢Ìá¹©ĞŞ¸´½¨Òé£¬¼õÉÙÕûÀí±¨¸æµÄÊ±¼ä£¬ÌáÉı¹¤×÷Ğ§ÂÊ¡£
+è§£æhtmlæŠ¥å‘Šï¼Œè‡ªåŠ¨ç¿»è¯‘æˆä¸­æ–‡ï¼Œå¹¶æä¾›ä¿®å¤å»ºè®®ï¼Œå‡å°‘æ•´ç†æŠ¥å‘Šçš„æ—¶é—´ï¼Œæå‡å·¥ä½œæ•ˆç‡ã€‚
 
-#### Ê¹ÓÃÎÄµµ
+#### ä½¿ç”¨æ–‡æ¡£
 
 ```
 Nessus_to_report
  
-©¦ Nessus_report_demo.py       //demo
-©¦ Nessus_resport.py           //Ö÷ÎÄ¼ş
-©¦ README.md                 
-©¦ vuln.db                     //ÖĞÎÄÂ©¶´¿â
-©¦
-©¸©¤img
-¡¡¡¡¡¡¡¡01.png
+â”‚ Nessus_report_demo.py       //demo
+â”‚ Nessus_resport.py           //ä¸»æ–‡ä»¶
+â”‚ README.md                 
+â”‚ vuln.db                     //ä¸­æ–‡æ¼æ´åº“
+â”‚
+â””â”€img
+ã€€ã€€ã€€ã€€01.png
 ```
 
-1¡¢NessusÉ¨Ãè½áÊø£¬Ñ¡ÔñHTMLÀàĞÍ£¬ReportÑ¡ÔñCustom£¬Croup By Ñ¡ÔñHost£¬µ¼³öHTML±¨¸æ¡£
+1ã€Nessusæ‰«æç»“æŸï¼Œé€‰æ‹©HTMLç±»å‹ï¼ŒReporté€‰æ‹©Customï¼ŒCroup By é€‰æ‹©Hostï¼Œå¯¼å‡ºHTMLæŠ¥å‘Šã€‚
 
-2¡¢ÔËĞĞ½Å±¾£ºNessus_resport.py  test.html
+2ã€è¿è¡Œè„šæœ¬ï¼šNessus_resport.py  test.html
 
-?      ÔÚÍ¬Ä¿Â¼ÏÂ£¬Éú³ÉCSVÎÄ¼ş£¬°üº¬·şÎñÆ÷IP¡¢Â©¶´Ãû³Æ¡¢·çÏÕ¼¶±ğ¡¢Â©¶´ÃèÊö¡¢ĞŞ¸´½¨Òé¡£
+åœ¨åŒç›®å½•ä¸‹ï¼Œç”ŸæˆCSVæ–‡ä»¶ï¼ŒåŒ…å«æœåŠ¡å™¨IPã€æ¼æ´åç§°ã€é£é™©çº§åˆ«ã€æ¼æ´æè¿°ã€ä¿®å¤å»ºè®®ã€‚
 
 ![](https://raw.githubusercontent.com/Bypass007/Nessus_to_report/master/img/01.png)
 
-#### ²Î¿¼×ÊÁÏ
+#### å‚è€ƒèµ„æ–™
 
-ÖĞÎÄÂ©¶´¿â£ºhttps://github.com/FunnyKun/NessusReportInChinese
+ä¸­æ–‡æ¼æ´åº“ï¼šhttps://github.com/FunnyKun/NessusReportInChinese
